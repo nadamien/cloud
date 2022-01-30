@@ -1,4 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: New Version
 
 Description: Basic template that defines a single Amazon EC2 instance with a security group that allows SSH traffic on port 22 and HTTP traffic on port 80 on Linux Virtual Machine.
 
